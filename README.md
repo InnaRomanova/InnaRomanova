@@ -27,5 +27,5 @@
   </div>
   
   ### 📖 Сертификат:
-(InnaRomanova/InnaRomanova/blob/main/Романова%20Инна%20Петровна_20232WD00005.pdf)
+![](https://github.com/InnaRomanova/InnaRomanova/blob/main/Романова%20Инна%20Петровна_20232WD00005.pdf)
 [Inna Romanova_20232WD00005.pdf](https://github.com/InnaRomanova/InnaRomanova/files/10776671/Inna.Romanova_20232WD00005.pdf)
