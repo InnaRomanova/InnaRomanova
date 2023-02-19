@@ -25,3 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" **alt="Git" width="40" height="40"/>
   </div>
+  
+  ### 📖 Сертификат:
+[Романова Инна Петровна_20232WD00005.pdf](https://github.com/InnaRomanova/InnaRomanova/files/10776670/_20232WD00005.pdf)
+[Inna Romanova_20232WD00005.pdf](https://github.com/InnaRomanova/InnaRomanova/files/10776671/Inna.Romanova_20232WD00005.pdf)
