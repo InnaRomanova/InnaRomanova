@@ -28,6 +28,10 @@
   
   ### 📖 Сертификат:
   <div>
+  <div>
 <img src="https://github.com/InnaRomanova/InnaRomanova/blob/main/Романова%20Инна%20Петровна_20232WD00005_Страница_1.png" height="180px" width="180px" alt="certificate">
 <img src="https://github.com/InnaRomanova/InnaRomanova/blob/main/Романова%20Инна%20Петровна_20232WD00005_Страница_2.png" height="180px" width="180px" alt="certificate">
-  </div>
+  </div>&nbsp;
+  <img src="https://github.com/InnaRomanova/InnaRomanova/blob/main/Inna%20Romanova_20232WD00005_Страница_1.png" height="180px" width="180px" alt="certificate">
+<img src="https://github.com/InnaRomanova/InnaRomanova/blob/main/Inna%20Romanova_20232WD00005_Страница_2.png" height="180px" width="180px" alt="certificate">
+  <div></div</div>
